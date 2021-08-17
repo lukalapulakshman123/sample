@@ -1,6 +1,6 @@
 variable filename {
 type=string
-default="pets.txt"
+default="/home/llakshman/Documents/pets.txt"
 }
 
 variable content{
